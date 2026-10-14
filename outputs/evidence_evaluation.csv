@@ -1,0 +1,4 @@
+case_id,origin,destination,week_of,expected_verdict,expected_note_id,reason,flagged,verdict,matched_note_id,actual_status,actual_verdict,actual_note_id,verdict_correct,note_id_correct,case_passed
+E005,Chennai,Bangalore,2025-05-05,Justified,N003,Nationwide diesel price increase began this week,True,Justified,N003,Flagged,Justified,N003,True,True,True
+E006,Chennai,Bangalore,2025-05-12,Unexplained,,Diesel note alone does not establish continued impact,True,Unexplained,,Flagged,Unexplained,None,True,True,True
+E008,Chennai,Bangalore,2025-03-17,Unexplained,,Flooding note does not support an ongoing cost increase,True,Unexplained,,Flagged,Unexplained,None,True,True,True

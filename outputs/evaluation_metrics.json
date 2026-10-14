@@ -1,0 +1,15 @@
+{
+  "shipment_records_processed": 2940,
+  "weekly_route_records": 728,
+  "final_output_records": 728,
+  "flagged_route_weeks": 90,
+  "unflagged_route_weeks": 638,
+  "justified_flags": 4,
+  "unexplained_flags": 86,
+  "execution_seconds": 36.706,
+  "llm_calls": 0,
+  "input_tokens": 0,
+  "output_tokens": 0,
+  "api_cost_usd": 0.0,
+  "llm_note": "Current pipeline uses deterministic Python rules; no LLM API calls or token usage."
+}

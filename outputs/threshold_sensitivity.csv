@@ -1,0 +1,4 @@
+threshold_pct,total_route_weeks,flagged_route_weeks,unflagged_route_weeks,history_flags,peer_flags,both_flags
+5.0,728,219,509,50,202,33
+10.0,728,90,638,8,89,7
+15.0,728,27,701,6,27,6

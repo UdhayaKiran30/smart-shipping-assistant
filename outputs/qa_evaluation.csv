@@ -1,0 +1,4 @@
+test_id,question,expected_route,expected_period,process_success,answer_contains_route,error,note
+QA001,Why did Chennai-Bangalore shipping costs rise in February 2025?,Chennai-Bangalore,2025-02,True,True,,Basic smoke test only; manually verify factual grounding.
+QA002,Explain the Chennai-Bangalore shipping costs in March 2025.,Chennai-Bangalore,2025-03,True,True,,Basic smoke test only; manually verify factual grounding.
+QA003,Why did Ahmedabad-Mumbai shipping costs rise in January 2025?,Ahmedabad-Mumbai,2025-01,True,True,,Basic smoke test only; manually verify factual grounding.
